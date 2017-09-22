@@ -1,3 +1,3 @@
 # d3trial
 
-bar charts
+svg bar charts based on d3js tutorial
